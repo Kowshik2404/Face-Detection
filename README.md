@@ -20,6 +20,9 @@ single face and multiple faces. The output of the model is the bounding box data
 location of the face in an image. We learn to build a face detection model using Keras supported
 by Tensorflow.
 
+Data link : 
+https://drive.google.com/file/d/1rolp8QqyKkvxJwlBAPPGtG2f3JA7hMwk/view?usp=sharing
+
 Overview
 In this problem, we use "Transfer Learning" of an Object Detector model to detect any object
 according to the problem in hand.
